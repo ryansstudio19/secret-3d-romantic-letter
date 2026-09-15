@@ -1,0 +1,6 @@
+{
+  "name": "Secret Romantic 3D Letter",
+  "description": "An intimate, interactive 3D romantic secret letter experience with page-turning animations, ambient floating rose petals, and subtle music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
